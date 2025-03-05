@@ -15,15 +15,15 @@ pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tessera
 
 # Configuration
 CONFIG = {
-    "monitored_folder": r"C:\Users\vived\OneDrive\Pictures\Screenshots",
+    "monitored_folder": r"C:\Users\kavya\OneDrive\Pictures\Screenshots",
     "authorized_users": {"Arumugam": "appa@1980"},
     "email_notifications": {
         "enabled": True,
         "smtp_server": "smtp.gmail.com",
         "port": 587,
-        "email": "vivedhaarupre8807@gmail.com",
-        "password": "waxw mepo urmq lxxc",
-        "recipient": "vivedhaarupre8807@gmail.com",
+        "email": "kavyaarupre807@gmail.com",
+        "password": "waxw repo xrmq lxxc",
+        "recipient": "kavyaarupre807@gmail.com",
     },
     "log_file": "access_logs.txt",
     "screenshot_folder": "./screenshots",
